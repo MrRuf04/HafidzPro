@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="14dp"
+    tools:context=".activities.EditActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="20dp"
+        android:text="Form Setoran Hafalan"
+        android:textSize="25dp"
+        app:fontFamily="@font/poppins_semibold" />
+
+    <EditText
+        android:id="@+id/full_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_margin="2dp"
+        android:inputType="textPersonName"
+        android:background="@drawable/frame1"
+        android:hint="Nama Lengkap"/>
+
+    <EditText
+        android:id="@+id/class_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_margin="2dp"
+        android:inputType="text"
+        android:background="@drawable/frame1"
+        android:hint="Jurusan"/>
+    <EditText
+        android:id="@+id/surah_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_margin="2dp"
+        android:inputType="text"
+        android:background="@drawable/frame1"
+        android:hint="Nama Surah"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/page"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:layout_margin="2dp"
+            android:inputType="number"
+            android:background="@drawable/frame1"
+            android:hint="Halaman Quran"/>
+        <EditText
+            android:id="@+id/juz"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:layout_margin="2dp"
+            android:inputType="number"
+            android:background="@drawable/frame1"
+            android:hint="Juz Quran"/>
+    </LinearLayout>
+    <EditText
+        android:id="@+id/teacher"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_margin="2dp"
+        android:inputType="textPersonName"
+        android:background="@drawable/frame1"
+        android:hint="Nama Ustadz"/>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorCoklat"
+        android:textColor="@color/white"
+        android:text="Simpan"/>
+
+</LinearLayout>

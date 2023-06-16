@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/bg_circle.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_bg_row.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_play.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_stop.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/textlines.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_detail.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_masjid.xml" value="0.1" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/fragment_jadwal_sholat.xml" value="0.209375" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/list_item_ayat.xml" value="0.209375" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/list_item_surah.xml" value="0.1" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/toolbar.xml" value="0.20092592592592592" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/toolbar_main.xml" value="0.209375" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable-xxxhdpi/ic_calender1.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/bg_circle.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/bg_circle_radius_primary.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/ic_bg_row.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/ic_hafi2.xml" value="0.121" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/drawable/ic_hafidzpro2.xml" value="0.121" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_crud.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_crud2.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_edit.xml" value="0.22" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_editor.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_get.xml" value="0.25" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_hafidz.xml" value="0.24157303370786518" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_masjid.xml" value="0.14675767918088736" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/fragment_jadwal_sholat.xml" value="0.12" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/list_item_ayat.xml" value="0.25" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/list_item_surah.xml" value="0.18" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/row_hafidz.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/row_user.xml" value="0.1" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/layout/toolbar.xml" value="0.22" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/menu/add_menu.xml" value="0.18" />
+        <entry key="..\:/Mr_ruf file/Android Studio/HafidzPro/AlQuran-Android-main/app/src/main/res/menu/menu_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
