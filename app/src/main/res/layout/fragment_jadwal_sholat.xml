@@ -25,7 +25,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="10dp"
                 android:text="Jadwal Sholat"
-                android:textColor="@color/colorCoklat"
+                android:textColor="@color/darkCyan"
                 android:textSize="24sp"
                 android:textStyle="bold" />
 
@@ -59,7 +59,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/bg_circle_radius_primary"
-                    android:backgroundTint="@color/colorGold"
+                    android:backgroundTint="@color/colorCyan"
                     app:dateTextColor="@android:color/white"
                     app:dayTextColor="@android:color/white"
                     app:monthTextColor="@android:color/white" />

@@ -91,7 +91,7 @@ class FragmentJadwalSholat : BottomSheetDialogFragment() {
         datePickerTimeline.setDisabledDateColor(
             ContextCompat.getColor(
                 requireActivity(),
-                R.color.colorAccent
+                R.color.colorGold
             )
         )
         datePickerTimeline.setActiveDate(date)

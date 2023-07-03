@@ -14,6 +14,7 @@
         android:gravity="center_horizontal"
         android:padding="20dp"
         android:text="Form Setoran Hafalan"
+        android:textColor="@color/darkCyan"
         android:textSize="25dp"
         app:fontFamily="@font/poppins_semibold" />
 
@@ -86,7 +87,7 @@
         android:id="@+id/btn_save"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/colorCoklat"
+        android:backgroundTint="@color/darkCyan"
         android:textColor="@color/white"
         android:text="Simpan"/>
 

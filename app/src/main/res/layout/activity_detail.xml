@@ -28,7 +28,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/poppins_semibold"
-                    android:textColor="@color/colorCoklat"
+                    android:textColor="@color/darkCyan"
                     android:textSize="22sp"
                     android:textStyle="bold" />
 
@@ -131,7 +131,7 @@
                             android:layout_gravity="start|center_vertical"
                             android:fontFamily="@font/poppins_semibold"
                             android:text="Keterangan"
-                            android:textColor="@color/colorCoklat"
+                            android:textColor="@color/darkCyan"
                             android:textIsSelectable="true"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -174,7 +174,10 @@
                     android:id="@+id/rvAyat"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_margin="5dp" />
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp" />
 
             </RelativeLayout>
 
@@ -194,7 +197,7 @@
             android:layout_margin="16dp"
             android:contentDescription="Stop"
             android:src="@drawable/ic_stop"
-            app:backgroundTint="@color/colorGold"
+            app:backgroundTint="@color/colorCyan"
             app:elevation="4dp" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -204,7 +207,7 @@
             android:layout_margin="16dp"
             android:contentDescription="Play"
             android:src="@drawable/ic_play"
-            app:backgroundTint="@color/colorGold"
+            app:backgroundTint="@color/colorCyan"
             app:elevation="4dp" />
 
     </FrameLayout>
