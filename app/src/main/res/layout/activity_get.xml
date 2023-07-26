@@ -9,14 +9,15 @@
     tools:context=".activities.GetActivity">
 
     <ImageView
-        android:layout_width="match_parent"
+        android:layout_width="300dp"
         android:layout_height="300dp"
+        android:layout_gravity="center"
         android:layout_marginVertical="50dp"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/logo1" />
 
     <Button
         android:id="@+id/btn_get"
-        android:layout_width="320dp"
+        android:layout_width="300dp"
         android:layout_height="60dp"
         android:text="Get started"
         android:textSize="18dp"
